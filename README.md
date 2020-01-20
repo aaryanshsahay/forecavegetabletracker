@@ -8,3 +8,6 @@ You can create a similiar type of csv file,modify the names and the code accordi
 
 This code contains 2 main parts, the first is accepting only the mrp from the url(using beautiful soup) and the other is comparing the values and creating a dataframe with an index(using pandas).
 
+
+rtrtr.py is the complete code whereas the other code (i forgot the name ,must be mini project something) is the code which just separates the price(mrp) from the url
+
